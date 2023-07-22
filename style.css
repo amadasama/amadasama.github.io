@@ -157,6 +157,7 @@ h3 {
  body {
 font-size: 100px;
 }
-.navbar li a {
+.navbar li a h1 {
   font-size: 100px;}
+  
 }
