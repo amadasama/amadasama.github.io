@@ -154,7 +154,7 @@ h3 {
  }
 
 @media screen and (max-width: 600px) {
- body {
+ body h1 h5{
 font-size: 100px;
 }
 .navbar li a h1 {
