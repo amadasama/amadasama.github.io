@@ -30,6 +30,7 @@ body {
 }
  .navbar li a {
   text-decoration: none;
+  font-size: 30px;
   color: #f8f8d9 ;
   padding: 5px 10px;
   border-radius: 2px;
