@@ -61,26 +61,24 @@ body {
   width: 400px;
   margin-top: 30px;
   border-radius: 15px;
-  box-shadow: none;
-  transition: box-shadow 0.3s ease;
  }
 
- .grid-item1:hover {
-  box-shadow: 0 0 20px 10px #3f3f3f;
- }
 
  h1 {
   display: flex;
   justify-content: center;
+  align-items: center;
   width: 400px;
   height: 40px;
+  border-radius: 15px;
   color: #f8f8d9;
   box-shadow: none;
   transition: box-shadow 0.3s ease;
  }
 
  h1:hover {
-  box-shadow: 2px 2px 2px 5 px #3f3f3f;
+    box-shadow: 0 0 20px 10px #3f3f3f;
+    background-color: #3f3f3f;
  }
 
 
